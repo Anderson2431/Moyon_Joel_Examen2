@@ -19,7 +19,7 @@ public class Personaje {
         return nombre;
     }
 
-    public getNivel() {
+    public int getNivel() {
         return nivel;
     }
 
